@@ -1,0 +1,7 @@
+#Fri Mar 10 11:27:27 IST 2017
+base.0=C\:\\Users\\Rajender\\AndroidStudioProjects\\Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_df4ce715d6317f0768fb6f999d032811a0ebd4b0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Rajender\\AndroidStudioProjects\\Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_deeb8cff4b8acc39d06d4c65cca715971c568b0e\\classes.dex
+base.1=C\:\\Users\\Rajender\\AndroidStudioProjects\\Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_deeb8cff4b8acc39d06d4c65cca715971c568b0e
+file.0=C\:\\Users\\Rajender\\AndroidStudioProjects\\Player\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_df4ce715d6317f0768fb6f999d032811a0ebd4b0\\classes.dex

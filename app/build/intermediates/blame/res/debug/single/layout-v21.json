@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Rajender\\AndroidStudioProjects\\Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Rajender\\.android\\build-cache\\7149ad1e04365a7dd64743b010666dbef9233ab8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajender\\AndroidStudioProjects\\Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Rajender\\.android\\build-cache\\7149ad1e04365a7dd64743b010666dbef9233ab8\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajender\\AndroidStudioProjects\\Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Rajender\\.android\\build-cache\\7149ad1e04365a7dd64743b010666dbef9233ab8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rajender\\AndroidStudioProjects\\Player\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Rajender\\.android\\build-cache\\7149ad1e04365a7dd64743b010666dbef9233ab8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

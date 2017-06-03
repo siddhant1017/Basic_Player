@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rajender\AndroidStudioProjects\Player\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a59f7534a95b72e7ae560a74c4b659f56f870138">
+        <dex dex="C:\Users\Rajender\AndroidStudioProjects\Player\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df4ce715d6317f0768fb6f999d032811a0ebd4b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rajender\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Rajender\AndroidStudioProjects\Player\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_72513d5a029dba1f3ac75a7d0e4ff8fedd6ef994\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rajender\AndroidStudioProjects\Player\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Rajender\AndroidStudioProjects\Player\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_deeb8cff4b8acc39d06d4c65cca715971c568b0e\classes.dex" />
+    </item>
+
+</items>
